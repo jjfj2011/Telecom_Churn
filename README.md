@@ -42,4 +42,4 @@ Los modelos han sido evaluados utilizando las siguientes métricas:
 ### 4. Conclusiones
 - El método RFECV (0.7877) presenta la mayor precisión, seguido de RFE (0.7849) y el diagrama de puntos (0.785). Esto indica que una eliminación meticulosa de características mediante validación cruzada puede optimizar el rendimiento del modelo
 - La PCA (0.7815) es efectiva para la reducción de dimensionalidad y la optimización de la eficiencia computacional; sin embargo, su aplicación no mejora el rendimiento en relación con otros métodos disponibles
-- La técnica SelectKBest y la eliminación de columnas con valores irrelevantes (0.784) son opciones efectivas que no afectan negativamente el rendimiento, aunque tampoco contribuyen a una mejora notable
+- La técnica SelectKBest y la eliminación de columnas con valores irrelevantes (0.7844) son opciones efectivas que no afectan negativamente el rendimiento, aunque tampoco contribuyen a una mejora notable
